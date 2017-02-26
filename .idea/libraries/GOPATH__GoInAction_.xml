@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;GoInAction&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../main" />
+      <root url="file://$PROJECT_DIR$/../anotherOne" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../main" />
+      <root url="file://$PROJECT_DIR$/../anotherOne" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
